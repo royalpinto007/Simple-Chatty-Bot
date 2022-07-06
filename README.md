@@ -1,8 +1,6 @@
 # Simple Chatty Bot
 Simple chat bot written in Kotlin
 
-That's a project I've done while learning on [JetBrains Academy][hyperskill]
-
 ![](chattybot.gif)
 
 ## Requirements
@@ -26,4 +24,4 @@ kotlinc src/bot/SimpleBot.kt -include-runtime -d SimpleBot.jar
 [openjdk-14]: http://jdk.java.net/14/
 [kotlinc]: https://github.com/JetBrains/kotlin/releases/latest
 [hyperskill]: https://hyperskill.org/projects/95
-[release]: https://github.com/mihael-stormrage/simple-chatty-bot-kotlin/releases
+[release]: https://github.com/royalpinto007/simple-chatty-bot-kotlin/releases
