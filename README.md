@@ -1,4 +1,3 @@
-# Simple Chatty Bot
 Simple chat bot written in Kotlin
 
 ![](chattybot.gif)
